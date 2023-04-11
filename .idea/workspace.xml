@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b3aec6a-4670-4c49-87f0-ebeae09eddd4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/testFrameWithJava" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="2OErVBYL9wnyPArRatY2bknZXSZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="#org.jetbrains.idea.devkit.run.PluginConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.InsertSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxq.algorithmeveryday.BubbleSort" />
+      <module name="algorithmWithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxq.algorithmeveryday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxq.algorithmeveryday.InsertSort" />
+      <module name="algorithmWithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxq.algorithmeveryday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxq.algorithmeveryday.SelectSort" />
+      <module name="algorithmWithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxq.algorithmeveryday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="factorialPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxq.algorithmeveryday.factorialPlus" />
+      <module name="algorithmWithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxq.algorithmeveryday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InsertSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.SelectSort" />
+        <item itemvalue="Application.factorialPlus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b3aec6a-4670-4c49-87f0-ebeae09eddd4" name="Default Changelist" comment="" />
+      <created>1681136603305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681136603305</updated>
+      <workItem from="1681136606710" duration="3864000" />
+      <workItem from="1681180646646" duration="2093000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom" timestamp="1681182213175">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1681182213175" />
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1681149099990" />
+    <state width="1396" height="245" key="GridCell.Tab.0.center" timestamp="1681182213174">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1681182213174" />
+    <state width="1396" height="245" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1681149099989" />
+    <state width="1396" height="245" key="GridCell.Tab.0.left" timestamp="1681182213173">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1681182213173" />
+    <state width="1396" height="245" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1681149099988" />
+    <state width="1396" height="245" key="GridCell.Tab.0.right" timestamp="1681182213175">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1681182213175" />
+    <state width="1396" height="245" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1681149099989" />
+  </component>
+</project>
