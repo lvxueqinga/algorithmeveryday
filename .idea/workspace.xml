@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5b3aec6a-4670-4c49-87f0-ebeae09eddd4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lxq/algorithmeveryday/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lxq/algorithmeveryday/BinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.ReverseList">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lxq.algorithmeveryday.BinarySearch" />
       <module name="algorithmWithJava" />
@@ -95,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxq.algorithmeveryday.ReverseList" />
+      <module name="algorithmWithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxq.algorithmeveryday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lxq.algorithmeveryday.SelectSort" />
       <module name="algorithmWithJava" />
@@ -108,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factorialPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxq.algorithmeveryday.factorialPlus" />
-      <module name="algorithmWithJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lxq.algorithmeveryday.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseList" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.InsertSort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.SelectSort" />
-        <item itemvalue="Application.factorialPlus" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +143,8 @@
       <workItem from="1681136606710" duration="3864000" />
       <workItem from="1681180646646" duration="2727000" />
       <workItem from="1681204151772" duration="2378000" />
-      <workItem from="1681280962612" duration="2231000" />
+      <workItem from="1681280962612" duration="2639000" />
+      <workItem from="1681300475447" duration="1808000" />
     </task>
     <servers />
   </component>
@@ -152,26 +152,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1396" height="139" key="GridCell.Tab.0.bottom" timestamp="1681283542255">
+    <state width="1396" height="139" key="GridCell.Tab.0.bottom" timestamp="1681303759454">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="139" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1681283542255" />
-    <state width="1396" height="303" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1681212379968" />
-    <state width="1396" height="139" key="GridCell.Tab.0.center" timestamp="1681283542254">
+    <state width="1396" height="139" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1681303759454" />
+    <state width="1396" height="139" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1681287774985" />
+    <state width="1396" height="139" key="GridCell.Tab.0.center" timestamp="1681303759453">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="139" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1681283542254" />
-    <state width="1396" height="303" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1681212379967" />
-    <state width="1396" height="139" key="GridCell.Tab.0.left" timestamp="1681283542253">
+    <state width="1396" height="139" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1681303759453" />
+    <state width="1396" height="139" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1681287774985" />
+    <state width="1396" height="139" key="GridCell.Tab.0.left" timestamp="1681303759453">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="139" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1681283542253" />
-    <state width="1396" height="303" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1681212379966" />
-    <state width="1396" height="139" key="GridCell.Tab.0.right" timestamp="1681283542255">
+    <state width="1396" height="139" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1681303759453" />
+    <state width="1396" height="139" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1681287774984" />
+    <state width="1396" height="139" key="GridCell.Tab.0.right" timestamp="1681303759454">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="139" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1681283542255" />
-    <state width="1396" height="303" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1681212379967" />
+    <state width="1396" height="139" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1681303759454" />
+    <state width="1396" height="139" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1681287774985" />
     <state width="1396" height="303" key="GridCell.Tab.1.bottom" timestamp="1681212379970">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
